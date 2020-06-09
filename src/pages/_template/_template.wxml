@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="logo">
+    <image
+      class="logo"
+      mode="widthFix"
+      src="{{src}}"
+    />
+  </view>
+  <text class="message active">babyfs mina gulp!</text>
+</view>
